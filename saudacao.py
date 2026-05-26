@@ -6,3 +6,6 @@ def soma(n1,n2):
   resultado(resultado)
 
 print(saudacao('Valentina'))		
+
+def despedida(nome):
+    return f"Até mais, {nome}!"
