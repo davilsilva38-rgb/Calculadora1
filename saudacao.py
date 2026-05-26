@@ -1,8 +1,8 @@
-def saudacao(nome):
-<<<<<<< HEAD
-  return f'Bm dia, {nome}
-=======
+def saudacao(nome)
   return f'Tenha um otimo final de semana, {nome}
->>>>>>> saudacao
 
-print(saudacao('Valentina'))
+def soma(n1,n2):
+  resultado = n1 + n2
+  resultado(resultado)
+
+print(saudacao('Valentina'))		
